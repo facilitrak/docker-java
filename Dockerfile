@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM alpine:edge
 MAINTAINER Joshua Griffith <j.griffith@facilitrak.com>
 
 # Install cURL
